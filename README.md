@@ -1,4 +1,5 @@
 # E-Commerce-Medical-App-with-Volley-Paytm
+#NOTE: Project is not longer maintain & now paytm library is updated for more details visit Paytm Developer Offial site
 
 ![IMG-20190510-WA0009](https://user-images.githubusercontent.com/46309253/58068593-8d340280-7baf-11e9-972f-3e8bd955dee4.jpg)
 
